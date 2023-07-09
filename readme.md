@@ -1,4 +1,5 @@
-# Welcome to the BiologyTools github page. Download the version of Bio library/program that fits your needs. 
+# Welcome to the BiologyTools github page. 
+## Download the version of Bio library/program that fits your needs. 
 - BioGTK is a cross-platform version of Bio library providing a ImageView widget for whole slide and image stacks.
 - BioCore is a Winforms based windows only library with ImageView control for pyramidal, wholeslide images as well as stacks. 
 - BioLib is the cross-platform version of the library without a GUI.
