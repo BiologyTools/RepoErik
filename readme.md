@@ -3,7 +3,7 @@
 - BioGTK is a cross-platform version of Bio library providing a ImageView widget for whole slide and image stacks.
 - BioCore is a Winforms based windows only library with ImageView control for pyramidal, wholeslide images as well as stacks. 
 - BioLib is the cross-platform version of the library without a GUI.
-
+## Both BioGTK & BioCore come as a library and a program.
 - [BioGTK](https://github.com/BiologyTools/BioGTK/releases)
 ![Nuget](https://img.shields.io/nuget/dt/BioGTK) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8122239.svg)](https://doi.org/10.5281/zenodo.8122239)
 - [BioCore](https://github.com/BiologyTools/BioCore/releases)
