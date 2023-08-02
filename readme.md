@@ -7,7 +7,7 @@
 - [BioGTK](https://github.com/BiologyTools/BioGTK/releases)
 ![Nuget](https://img.shields.io/nuget/dt/BioGTK) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8122239.svg)](https://doi.org/10.5281/zenodo.8122239)
 - [BioCore](https://github.com/BiologyTools/BioCore/releases)
-![Nuget](https://img.shields.io/nuget/dt/BioCore)
+![Nuget](https://img.shields.io/nuget/dt/BioCore) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8207863.svg)](https://doi.org/10.5281/zenodo.8207863)
 - [BioLib](https://github.com/BiologyTools/BioLib) ![Nuget](https://img.shields.io/nuget/dt/BioLib) [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.8127022.svg)](https://doi.org/10.5281/zenodo.8127022)
 - [BioImager](https://github.com/BiologyTools/BioImager) [![DOI](https://zenodo.org/badge/535162891.svg)](https://zenodo.org/badge/latestdoi/535162891)
 
