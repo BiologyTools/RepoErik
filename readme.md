@@ -1,6 +1,6 @@
 # Welcome to the BiologyTools github page. 
 ## Download the version of Bio library/program that fits your needs. 
-- BioGTK is a cross-platform version of Bio library providing a ImageView widget for whole slide and image stacks. Includes also Segment-Anything based Segmentation of objects in images.
+- BioGTK is a cross-platform version of Bio library providing a ImageView widget for whole slide and image stacks. Also includes Segment-Anything based Segmentation of objects in images.
 - BioCore is a Winforms based windows only library with ImageView control for pyramidal, wholeslide images as well as stacks. 
 - BioLib is the cross-platform version of the library without a GUI.
 - BioImager is a microscopy imaging application & library which supports various microscopes by using imported libraries & GUI automation. Supported libraries include Zeiss® & all microscopes supported by MicroManager 2.0, or python-microscope
